@@ -1,9 +1,7 @@
 # IBM Data Analysis with Python
 ## Level: Intermediate
 ### [Python Project Link:](https://github.com/snmhoque123/python_project/blob/main/Home%20Sales%20in%20King%20Count%20Usa.ipynb)
-### 🎉 Exciting News! 🎉
-
-I successfully completed the comprehensive course on Analyzing Data with Python through Coursera. This six-module journey has equipped me with essential skills in data analysis, model building, and evaluation, which are crucial for any Data Scientist or Data Analyst.
+Successfully completed the comprehensive course on Analyzing Data with Python through Coursera. This six-module journey has equipped me with essential skills in data analysis, model building, and evaluation, which are crucial for any Data Scientist or Data Analyst.
 
 ### 🔑 Key Skills I Learned
 - Using Pandas, Numpy and Scipy libraries for data manipulation
